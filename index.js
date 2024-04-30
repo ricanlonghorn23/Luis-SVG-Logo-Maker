@@ -39,6 +39,7 @@ inquirer.prompt([
             break;
         case 'triangle':
             shape = new Triangle(); 
+            break; 
         case 'square':
             shape = new Square(); 
             break;

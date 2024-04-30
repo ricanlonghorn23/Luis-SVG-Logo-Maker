@@ -14,12 +14,12 @@
 
 ## Installation
 - To Access the SVG Logo Maker Generator repository: https://github.com/ricanlonghorn23/Luis-SVG-Logo-Maker.git
-- To Access video demonstration of my SVG Logo Maker Generator: 
+- To Access video demonstration of my SVG Logo Maker Generator: https://drive.google.com/file/d/11uBFFUrDFcsrkfTu8AtYEHyO-M1ZJsIT/view
 
 
 
 ## Usage
-The user will go to the file in which the SVG Logo Maker code is located. They will type in “npm i inquirer@8.2.4” to install the inquirer file. The use will then type in "npm i -D jest" and then  "-npm install --save-dev jest" to install jest. The user will then run "npx jest" to run test on files. Once the test has passed, the user with run “node index.js” and the SVG Logo Maker Generator will begin asking the questions. Once the fields are completed a .svg file will be automatically generated.
+The user will go to the file in which the SVG Logo Maker code is located. They will type in “npm i inquirer@8.2.4” to install the inquirer package. The user will then type in "npm i -D jest" and then  "npm install --save-dev jest" to install jest package. The user will then run "npx jest" to run test on files. Once the test has passed, the user with run “node index.js” and the SVG Logo Maker Generator will begin asking the questions. Once the fields are completed a .svg file will be automatically generated.
 
 
  
